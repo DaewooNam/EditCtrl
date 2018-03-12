@@ -1,0 +1,17 @@
+03.12
+
+********************************
+Edit Control
+********************************
+
+ctrl + shift + b(build)
+ctrl + f5(디버그 포함& 빌드 및 실행)
+=> 혼자 디버깅이 안된다..???
+
+=>debug 폴더 확인 exe 파일 실행
+=>베포용 파일은 Release 파일로 배포 하게 된다.(debug 용량이 큼)
+
+Static 값은 Control 할수 없고, ID 값이 Const 하다.(보여주기 용)
+
+
+update Data
